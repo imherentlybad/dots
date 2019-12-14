@@ -1,2 +1,2 @@
 * Dots
-A colleciton of my dotfiles
+A colleciton of my dotfiles!
