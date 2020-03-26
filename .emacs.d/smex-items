@@ -1,0 +1,55 @@
+
+;; ----- smex-history -----
+(
+ c-mode
+ slime
+ lisp-mode
+ kill-buffer
+ revert-buffer
+ shell
+ org-mode
+)
+
+;; ----- smex-data -----
+(
+ (magit-reset-quickly . 1)
+ (revert-buffer . 7)
+ (slime . 15)
+ (dired . 1)
+ (org-mode . 3)
+ (org-narrow-to-subtree . 1)
+ (shell . 6)
+ (linum-mode . 3)
+ (text-scale-increase . 1)
+ (eshell . 4)
+ (company-capf . 1)
+ (line-number-mode . 2)
+ (dired-do-touch . 1)
+ (edirs-merge . 1)
+ (lisp-mode . 4)
+ (upcase-region . 1)
+ (downcase-region . 1)
+ (straight-pull-package . 2)
+ (straight-fetch-all . 1)
+ (straight-use-package . 8)
+ (gnus-bookmark-jump . 1)
+ (bookmark-jump . 2)
+ (company-ispell . 2)
+ (company-mode . 1)
+ (ispell . 3)
+ (compile . 5)
+ (doom-modeline-mode . 6)
+ (customize . 1)
+ (customize-themes . 6)
+ (god-mode . 2)
+ (coq-commenter-mode . 4)
+ (company-coq-tutorial . 7)
+ (prettify-symbols-mode . 2)
+ (coq-mode . 2)
+ (asm-mode . 1)
+ (fasm-mode . 2)
+ (emacs-uptime . 1)
+ (load-theme . 2)
+ (kill-buffer . 1)
+ (c-mode . 1)
+)

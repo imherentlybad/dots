@@ -1,0 +1,55 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Sun Dec 29 17:23:35 2019
+;; Desktop file format version 208
+;; Emacs version 26.3
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (24072 28823 18497 93000) (desktop . "208") "lorenzo@adastra" nil nil ((((minibuffer . t) (undecorated) (override-redirect) (font-backend xft x) (font . "-CTDB-Fira Mono-normal-normal-normal-*-15-*-*-*-m-0-iso10646-1") (font-parameter . "Fira Mono 11") (border-width . 0) (internal-border-width . 0) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars) (horizontal-scroll-bars) (foreground-color . "#e9c5a3") (background-color . "#0B0B0D") (mouse-color . "black") (border-color . "black") (screen-gamma) (line-spacing) (left-fringe . 8) (right-fringe . 8) (no-special-glyphs) (scroll-bar-foreground) (scroll-bar-background) (menu-bar-lines . 0) (tool-bar-lines . 0) (title) (wait-for-wm . t) (tool-bar-position . top) (inhibit-double-buffering) (icon-type . t) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 0) (scroll-bar-height . 0) (alpha) (no-focus-on-map) (no-accept-focus) (fullscreen) (visibility . t) (skip-taskbar) (z-group) (display-type . color) (background-mode . dark) (cursor-color . "#e9c5a3") (environment) (frameset--id . "D140-01FF-0308-0699") (frameset--mini t . t) (modeline . t) (unsplittable) (icon-name) (display . ":0") (explicit-name) (frameset--text-pixel-width . 1862) (frameset--text-pixel-height . 1027) (height . 68) (width . 232) (left . 8) (top . 35)) ((min-height . 4) (min-width . 10) (min-height-ignore . 3) (min-width-ignore . 4) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 76) (min-pixel-width . 90) (min-pixel-height-ignore . 57) (min-pixel-width-ignore . 36) (min-pixel-height-safe . 19) (min-pixel-width-safe . 18)) leaf (pixel-width . 1894) (pixel-height . 1008) (total-width . 236) (total-height . 53) (normal-height . 1.0) (normal-width . 1.0) (buffer "base.el" (selected . t) (hscroll . 0) (fringes 8 8 nil) (margins nil) (scroll-bars nil 0 t nil 0 nil) (vscroll . 0) (dedicated) (point . 976) (start . 770))))])
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring nil)
+(setq regexp-search-ring nil)
+(setq register-alist nil)
+(setq file-name-history '("~/.emacs.d/lisp/base.el" "~/.emacs.d/lisp/completion.el" "~/.emacs.d/lisp/theming.el" "~/test.c" "~/.Xresources" "~/.emacs.d/lisp/versioncontrol.el"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 208
+  "/home/lorenzo/.emacs.d/lisp/base.el"
+  "base.el"
+  'emacs-lisp-mode
+  '(eldoc-mode override-global-mode company-mode)
+  976
+  '(1589 nil)
+  nil
+  nil
+  '((buffer-display-time 24072 28805 491729 623000) (buffer-file-coding-system . prefer-utf-8-unix))
+  '((mark-ring (1589 2088 2227 2184 2320 1 2320 1554 1190))))
+
+(desktop-create-buffer 208
+  "/home/lorenzo/.emacs.d/lisp/completion.el"
+  "completion.el"
+  'emacs-lisp-mode
+  '(eldoc-mode override-global-mode company-mode)
+  859
+  '(1 nil)
+  nil
+  nil
+  '((buffer-display-time 24072 28658 122771 313000) (buffer-file-coding-system . prefer-utf-8-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/lorenzo/.emacs.d/lisp/theming.el"
+  "theming.el"
+  'emacs-lisp-mode
+  '(eldoc-mode override-global-mode company-mode)
+  192
+  '(111 nil)
+  nil
+  nil
+  '((buffer-display-time 24072 28805 490433 272000) (buffer-file-coding-system . prefer-utf-8-unix))
+  '((mark-ring nil)))
+
